@@ -1,12 +1,12 @@
 # Platform Status
 
-Last run: 2026-09-07T11:01:39.924078+00:00  
+Last run: 2026-09-14T11:13:44.010768+00:00  
 Auto Archiver version: 1.2.9
 
 | Platform | Content Type | Config | Accessible | Archived |
 |----------|-------------|--------|------------|----------|
 | youtube | video | barebones | :x: | :x: |
-| tiktok | video | barebones | :x: | :x: |
+| tiktok | video | barebones | :white_check_mark: | :white_check_mark: |
 | bluesky | video | barebones | :white_check_mark: | :white_check_mark: |
 | bluesky | multi_image | barebones | :white_check_mark: | :white_check_mark: |
 | bluesky | single_image | barebones | :white_check_mark: | :white_check_mark: |
